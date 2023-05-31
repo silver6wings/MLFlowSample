@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4a54bc70d684fba854452f6327ee6dc/artifacts
+end_time: 1685523797547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4a54bc70d684fba854452f6327ee6dc
+run_name: mercurial-hawk-124
+run_uuid: d4a54bc70d684fba854452f6327ee6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685523797518
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/47fa8030c68442a0a6827d36006b61cb/artifacts
+end_time: 1685526348303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47fa8030c68442a0a6827d36006b61cb
+run_name: salty-snake-155
+run_uuid: 47fa8030c68442a0a6827d36006b61cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685526346895
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7cdf56842b9446448a605cb4878d78ee/artifacts
+end_time: 1685520164602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cdf56842b9446448a605cb4878d78ee
+run_name: monumental-skink-271
+run_uuid: 7cdf56842b9446448a605cb4878d78ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685520163241
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1a3c30a3fc464ce783540a93b69f941a/artifacts
+end_time: 1685526795955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a3c30a3fc464ce783540a93b69f941a
+run_name: fortunate-shrew-385
+run_uuid: 1a3c30a3fc464ce783540a93b69f941a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685526794468
+status: 3
+tags: []
+user_id: junchao.yu

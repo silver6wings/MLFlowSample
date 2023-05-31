@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d52c6d25ecad45eca1675dff4089127d/artifacts
+end_time: 1685523841251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d52c6d25ecad45eca1675dff4089127d
+run_name: honorable-gull-410
+run_uuid: d52c6d25ecad45eca1675dff4089127d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685523841223
+status: 4
+tags: []
+user_id: junchao.yu

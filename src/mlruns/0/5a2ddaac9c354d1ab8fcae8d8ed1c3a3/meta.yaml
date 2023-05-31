@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/junchao.yu/Desktop/MLFlowSample/src/mlruns/0/5a2ddaac9c354d1ab8fcae8d8ed1c3a3/artifacts
+end_time: 1685524582731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a2ddaac9c354d1ab8fcae8d8ed1c3a3
+run_name: name
+run_uuid: 5a2ddaac9c354d1ab8fcae8d8ed1c3a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685524582722
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b2100ded0583405d8b1fc85201ef59ec/artifacts
+end_time: 1685523846169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2100ded0583405d8b1fc85201ef59ec
+run_name: blushing-deer-975
+run_uuid: b2100ded0583405d8b1fc85201ef59ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685523846151
+status: 4
+tags: []
+user_id: junchao.yu

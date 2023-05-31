@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26d00ace777d4bd7b21479f7944b191e/artifacts
+end_time: 1685523863584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26d00ace777d4bd7b21479f7944b191e
+run_name: invincible-fly-197
+run_uuid: 26d00ace777d4bd7b21479f7944b191e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685523863565
+status: 4
+tags: []
+user_id: junchao.yu

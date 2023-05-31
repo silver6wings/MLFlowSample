@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fcb71986c9ba4b4eb6390474d473e520/artifacts
+end_time: 1685343153303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcb71986c9ba4b4eb6390474d473e520
+run_name: suave-panda-441
+run_uuid: fcb71986c9ba4b4eb6390474d473e520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685343153268
+status: 3
+tags: []
+user_id: junchao.yu

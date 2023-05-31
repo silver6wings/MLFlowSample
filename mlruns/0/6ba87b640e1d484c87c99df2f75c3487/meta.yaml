@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6ba87b640e1d484c87c99df2f75c3487/artifacts
+end_time: 1685428769008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ba87b640e1d484c87c99df2f75c3487
+run_name: gaudy-auk-619
+run_uuid: 6ba87b640e1d484c87c99df2f75c3487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685428769002
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c19312520d4144098c210430cf18a16b/artifacts
+end_time: 1685523775073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c19312520d4144098c210430cf18a16b
+run_name: delightful-newt-151
+run_uuid: c19312520d4144098c210430cf18a16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685523775050
+status: 3
+tags: []
+user_id: junchao.yu

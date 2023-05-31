@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dbd6b61b4149453c934f1da4f34eee4a/artifacts
+end_time: 1685342656081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbd6b61b4149453c934f1da4f34eee4a
+run_name: colorful-frog-575
+run_uuid: dbd6b61b4149453c934f1da4f34eee4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685342656074
+status: 3
+tags: []
+user_id: junchao.yu

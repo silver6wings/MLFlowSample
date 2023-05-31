@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e32eb2086eb405798f997fb5610f725/artifacts
+end_time: 1685526610657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e32eb2086eb405798f997fb5610f725
+run_name: classy-wasp-154
+run_uuid: 7e32eb2086eb405798f997fb5610f725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685526609236
+status: 3
+tags: []
+user_id: junchao.yu

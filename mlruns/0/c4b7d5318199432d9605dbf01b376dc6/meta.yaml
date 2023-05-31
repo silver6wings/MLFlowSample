@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4b7d5318199432d9605dbf01b376dc6/artifacts
+end_time: 1685526548331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4b7d5318199432d9605dbf01b376dc6
+run_name: adventurous-bass-875
+run_uuid: c4b7d5318199432d9605dbf01b376dc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685526546840
+status: 4
+tags: []
+user_id: junchao.yu

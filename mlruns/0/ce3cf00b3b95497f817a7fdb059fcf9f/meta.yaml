@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce3cf00b3b95497f817a7fdb059fcf9f/artifacts
+end_time: 1685434726697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce3cf00b3b95497f817a7fdb059fcf9f
+run_name: likeable-finch-541
+run_uuid: ce3cf00b3b95497f817a7fdb059fcf9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685434725124
+status: 3
+tags: []
+user_id: junchao.yu

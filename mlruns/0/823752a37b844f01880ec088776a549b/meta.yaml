@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/823752a37b844f01880ec088776a549b/artifacts
+end_time: 1685524623682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 823752a37b844f01880ec088776a549b
+run_name: name
+run_uuid: 823752a37b844f01880ec088776a549b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685524623637
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5956a86c1dd47c48fc42615c3355859/artifacts
+end_time: 1685343028074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5956a86c1dd47c48fc42615c3355859
+run_name: legendary-cat-567
+run_uuid: d5956a86c1dd47c48fc42615c3355859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685343028047
+status: 3
+tags: []
+user_id: junchao.yu

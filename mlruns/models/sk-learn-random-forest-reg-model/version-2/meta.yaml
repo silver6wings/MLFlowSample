@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685526548322
+current_stage: None
+description: ''
+last_updated_timestamp: 1685526548322
+name: sk-learn-random-forest-reg-model
+run_id: c4b7d5318199432d9605dbf01b376dc6
+run_link: ''
+source: mlflow-artifacts:/0/c4b7d5318199432d9605dbf01b376dc6/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df5840b0e00e4039ac9a2b33375b58ba/artifacts
+end_time: 1685428849108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df5840b0e00e4039ac9a2b33375b58ba
+run_name: painted-cat-322
+run_uuid: df5840b0e00e4039ac9a2b33375b58ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685428847597
+status: 3
+tags: []
+user_id: junchao.yu

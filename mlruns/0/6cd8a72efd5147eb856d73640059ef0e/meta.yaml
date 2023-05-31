@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6cd8a72efd5147eb856d73640059ef0e/artifacts
+end_time: 1685343185716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd8a72efd5147eb856d73640059ef0e
+run_name: calm-ant-809
+run_uuid: 6cd8a72efd5147eb856d73640059ef0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685343185690
+status: 3
+tags: []
+user_id: junchao.yu

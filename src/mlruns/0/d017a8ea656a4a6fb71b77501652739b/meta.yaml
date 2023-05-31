@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/junchao.yu/Desktop/MLFlowSample/src/mlruns/0/d017a8ea656a4a6fb71b77501652739b/artifacts
+end_time: 1685526329207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d017a8ea656a4a6fb71b77501652739b
+run_name: capable-fish-104
+run_uuid: d017a8ea656a4a6fb71b77501652739b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685526327763
+status: 3
+tags: []
+user_id: junchao.yu

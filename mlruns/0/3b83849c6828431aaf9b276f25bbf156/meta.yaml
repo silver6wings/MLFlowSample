@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b83849c6828431aaf9b276f25bbf156/artifacts
+end_time: 1685429137401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b83849c6828431aaf9b276f25bbf156
+run_name: nebulous-flea-817
+run_uuid: 3b83849c6828431aaf9b276f25bbf156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685429137310
+status: 3
+tags: []
+user_id: junchao.yu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c7b2c3e57cf5468d9eb73a0f9ceafa2d/artifacts
+end_time: 1685340471280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7b2c3e57cf5468d9eb73a0f9ceafa2d
+run_name: bold-whale-987
+run_uuid: c7b2c3e57cf5468d9eb73a0f9ceafa2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685340471170
+status: 4
+tags: []
+user_id: junchao.yu

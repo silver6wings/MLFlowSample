@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e36352d3037a4d7cb6f881207ce61eed/artifacts
+end_time: 1685341815733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36352d3037a4d7cb6f881207ce61eed
+run_name: rogue-doe-15
+run_uuid: e36352d3037a4d7cb6f881207ce61eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685341815626
+status: 4
+tags: []
+user_id: junchao.yu
