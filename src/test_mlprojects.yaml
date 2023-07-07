@@ -1,0 +1,40 @@
+#a: &a asd
+#b: &b
+#  aa: bb
+#  ab: ba
+#c:
+#  - c1
+#  - c2
+#  - c3
+#    c4
+#d:
+#  -
+#    d1: 1
+#    d2: 2
+#  -
+#    d3: 1
+#    d4: 2
+#  -
+#    *b
+#  -
+#    *b
+#e: *a
+
+
+# 相当于 (也是 JSON 的表示)
+#Color: [blue, red, green]
+#div:
+#  - border: {color: red, width: 2px}
+#  - background: {color: green}
+#  - padding: [0, 10px, 0, 10px]
+# 使用缩进表示的键值表与列表项
+
+items:
+  - item: cpu
+    model: i3
+    price: ￥800.00
+  - item: HD
+    model: WD
+    price: ￥450.00
+# 上面使用 “-” 前导与缩进来表示多个列表项，相当于下面的JSON表示
+#items: [{item:cpu, model:i3, price:￥800.00}, {item:HD, model:WD, price: ￥450.00}]

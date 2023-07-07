@@ -1,0 +1,12 @@
+python: 3.9.16
+build_dependencies:
+  - pip==22.3.1
+  - setuptools==65.5.1
+  - wheel==0.38.4
+dependencies:
+  - numpy>=1.14.3
+  - pandas>=1.0.0
+  - scikit-learn>0.19.1
+  - pip
+  - pip:
+      - mlflow
