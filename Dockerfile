@@ -1,6 +1,3 @@
-# docker build -t my_mlflow .
-# docker build -f Dockerfile-as-root --progress plain --no-cache -t mlflow_tracker_slim_as_root .
-# docker run --name my_mlflow_instance -p 5005:5000 -d my_mlflow
 
 
 # Good practice: Use official base images
@@ -24,8 +21,9 @@ RUN pip install --no-cache-dir -r requirements.txt && rm requirements.txt
 EXPOSE 5000
 
 # Launch the mlflow server
-CMD mlflow server --backend-store-uri ${BACKEND_STORE_URI} \
-                  --default-artifact-root ${DEFAULT_ARTIFACT_ROOT} \
-                  --artifacts-destination ${DEFAULT_ARTIFACTS_DESTINATION} \
-                  --no-serve-artifacts \
-                  --host 0.0.0.0 --port 5000
+CMD mlflow server --host 0.0.0.0 --port 5000
+#--backend-store-uri ${BACKEND_STORE_URI} \
+#--default-artifact-root ${DEFAULT_ARTIFACT_ROOT} \
+#--artifacts-destination ${DEFAULT_ARTIFACTS_DESTINATION} \
+#--no-serve-artifacts
+
