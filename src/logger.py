@@ -1,14 +1,10 @@
 import mlflow
-
 mlflow.log_metric("accuracy", 0.9)
-
 mlflow.log_param("learning_rate", 0.001)
 
 import mlflow
-
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.log_artifact("data/a.txt", "b/c")
-
 mlflow.log_text("asdf", "b/c/a.txt")
 
 import logging
