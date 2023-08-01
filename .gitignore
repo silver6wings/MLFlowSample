@@ -154,3 +154,5 @@ cython_debug/
 mlartifacts/
 mlruns/
 mlruns/models/*
+
+my_pytroch/data/*
